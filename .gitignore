@@ -1,0 +1,19 @@
+# Output files
+*.mod.c
+.Module.*
+.modules.*
+Module.*
+modules.*
+*.cmd
+*.ko
+*.mod
+*.o
+
+# Vim swap files
+*.swp
+
+# Emacs autosave files
+*~
+
+# VS Code config files
+.vscode/
